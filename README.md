@@ -1,8 +1,36 @@
-- 👋 Hi, I’m @NIC2EMZ
-- 👀 I’m interested in code
-- 🌱 I’m currently learning JavaScript and flutter
-- 💞️ I’m looking to collaborate on flutter apps
-- 📫 How to reach me dometoami@gmail.com
+# Hi 👋 Ich bin Nicemz
+
+🎯 **Auf der Suche nach einem Ausbildungsplatz als Fachinformatikerin für Anwendungsentwicklung**
+
+## 💻 Über mich
+
+Ich bin eine angehende Entwicklerin mit einer Leidenschaft fürs Programmieren. Ich lerne kontinuierlich neue Technologien und arbeite an verschiedenen Projekten, um meine Fähigkeiten zu verbessern.
+
+## 🔧 Technologien & Tools
+
+- **Sprachen:** JavaScript, Dart (Flutter)
+- **Frontend:** HTML, CSS
+- **Tools:** Git, GitHub
+- **Aktuell lerne ich:** Flutter für mobile App-Entwicklung
+
+## 🚀 Aktuelle Projekte
+
+- ⏱️ [Chronometer](https://github.com/NIC2EMZ/Chronometer-) - Eine Stoppuhr-Anwendung in JavaScript
+- ♟️ [Chess Game](https://github.com/NIC2EMZ/Chess-game-) - Ein Schachspiel-Projekt
+
+## 🌱 Lernziele 2025
+
+- [ ] Flutter-Apps für Android & iOS entwickeln
+- [ ] Backend-Entwicklung mit Node.js oder Python
+- [ ] Mehr über Algorithmen und Datenstrukturen lernen
+
+## 📫 Kontakt
+
+- Email: dometoami@gmail.com
+- LinkedIn: [Dein LinkedIn]
+
+
+💡 *Ich bin offen für Feedback, Zusammenarbeit und natürlich für Ausbildungsplätze!*
  
  <!---
 NIC2EMZ/NIC2EMZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
