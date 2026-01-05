@@ -18,7 +18,7 @@ Ich bin eine angehende Entwicklerin mit einer Leidenschaft fürs Programmieren. 
 - ⏱️ [Chronometer](https://github.com/NIC2EMZ/Chronometer-) - Eine Stoppuhr-Anwendung in JavaScript
 - ♟️ [Chess Game](https://github.com/NIC2EMZ/Chess-game-) - Ein Schachspiel-Projekt
 
-## 🌱 Lernziele 2025
+## 🌱 Lernziele 2026
 
 - [ ] Flutter-Apps für Android & iOS entwickeln
 - [ ] Backend-Entwicklung mit Node.js oder Python
