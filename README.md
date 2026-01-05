@@ -26,7 +26,7 @@ Ich bin eine angehende Entwicklerin mit einer Leidenschaft fürs Programmieren. 
 
 ## 📫 Kontakt
 
-- Email: dometoami@gmail.com
+- Email: domeunce@gmail.com
 - LinkedIn: www.linkedin.com/in/eunice-ami-dev
 
 💡 *Ich bin offen für Feedback, Zusammenarbeit und natürlich für Ausbildungsplätze!*
